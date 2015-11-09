@@ -6,6 +6,7 @@
 int main()
 {
     std::array<int, 10> my_array;
+    // int my_array[10];
 
     std::cout << "Please enter 10 numbers" << std::endl;
 
